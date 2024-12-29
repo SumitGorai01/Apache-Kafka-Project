@@ -1,0 +1,13 @@
+package com.project.enduser;
+
+import org.springframework.context.annotation.Configuration;
+
+
+@Configuration
+public class KafkaConfig {
+	
+	@KafkaListener
+	public void updateLocation(String value) {
+		
+	}
+}

@@ -1,0 +1,9 @@
+package com.project.enduser;
+
+public class AppConstants {
+
+	
+	public static String lOCATION_UPDATE_TOPIC = "location-update-topic";
+	
+	public static String gROUP_ID="group-1";
+}
